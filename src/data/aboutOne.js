@@ -10,12 +10,11 @@ const aboutOne = {
   discount: "",
   tagline: "Get to know us",
   title: "Plan Your Trip with Adventure for you",
-  destination:
-    "There are many variations of passages of available but the majority have suffered alteration in some form, by injected hum randomised words which don't look even slightly.",
+  destination:"Known as the land of a thousand hills, Rwanda’s stunning scenery and warm, friendly people offer unique experiences in one of the most remarkable countries in the world. It is blessed with extraordinary biodiversity, with incredible wildlife living throughout its volcanoes, montane rainforest and sweeping plains.Travellers come from far and wide to catch a glimpse of the magnificent gorillas, yet there is so much more to see and experience.",
   points: [
-    "Invest in your simply neighborhood",
-    "Support people in free text extreme need",
-    "Largest global industrial business community",
+    "As guardians of many iconic species, Rwanda is committed to safeguarding their existence within the four National Parks.",
+    "Our country is full of beauty and managing to explore it all is easy, thanks to an excellent road network linking the core areas.",
+    "Visitors can rest assured the country is safe as well as stunning – Rwanda was ranked the 9th safest country in the world by the World Economic Forum.",
   ],
 };
 
