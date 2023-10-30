@@ -1,4 +1,4 @@
-import bg from "@/images/resources/adev_image.gif";
+import bg from "@/images/resources/adev_image.GIF";
 import Link from "next/link";
 import React from "react";
 import { Container } from "react-bootstrap";

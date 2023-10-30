@@ -1,4 +1,4 @@
-import about from "@/images/resources/adev_image.gif";
+import about from "@/images/resources/adev_image.GIF";
 import shape1 from "@/images/shapes/about-one-shape-1.png";
 import shape2 from "@/images/shapes/about-one-shape-2.png";
 

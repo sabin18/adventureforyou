@@ -1,4 +1,4 @@
-import bg from "@/images/resources/adev_image.gif";
+import bg from "@/images/resources/adev_image.GIF";
 import bg2 from "@/images/shapes/why-choose-right-map.png";
 
 const whyChoose = {
