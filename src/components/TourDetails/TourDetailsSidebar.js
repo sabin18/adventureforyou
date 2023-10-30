@@ -95,11 +95,12 @@ const TourDetailsSidebar = () => {
           className="tour-details-two__sidebar-form"
         >
           <div className="tour-details-two__sidebar-form-input">
-            <input type="text" placeholder="Where to" name="place" />
+            <input type="text" placeholder="Where are you coming from" name="place" />
           </div>
-          <div className="tour-details-two__sidebar-form-input">
+          {/* <div className="tour-details-two__sidebar-form-input">
             <input type="text" placeholder="When" name="when" />
-          </div>
+          </div> */}
+      
           <div className="tour-details-two__sidebar-form-input">
             <Select
               name="type"
@@ -130,18 +131,11 @@ const TourDetailsSidebar = () => {
             </div>
           </div>
           <div className="tour-details-two__sidebar-form-input">
-            <Select
-              name="ticket"
-              options={typeOptions}
-              onChange={handleSelectTicket}
-              styles={customStyle}
-              isSearchable={false}
-              components={{
-                IndicatorSeparator: () => null,
-                DropdownIndicator: () => null,
-              }}
-              placeholder="Choose Ticket"
-              instanceId="tourTypeSelect15"
+            <DatePicker
+              selected={startDate}
+              onChange={(date) => setStartDate(date)}
+              placeholderText="Select date"
+              id="datepicker"
             />
             <div className="tour-details-two__sidebar-form-icon">
               <i className="fa fa-angle-down"></i>
