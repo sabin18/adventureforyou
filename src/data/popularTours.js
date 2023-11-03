@@ -5,7 +5,7 @@ const popularTours = [
     title: "Tea Plantation",
     superb: "8.0",
     rate: "400",
-    description:"4 hours drive from Kigali you will reach at Rubavu or Gisenyi for the relaxation Kivu Lake and is an opportunity to get away and enjoy a full day out of Kigali, with a boat trip in Kivu lake, with our local and friendly tour guide, hotels and trendy bars on the lakeshore, ideal for sundowner cocktails. You will take a rest on the shores of Lake Kivu and overnight near the lake the transport is assured. Throughout the trip, you will enjoy the revitalizing views and landscapes of our Country of a Thousand Hills, Rwanda.",
+    description:"Tea was introduced in Rwanda in 1952 and is now one of the country’s largest exports. The fertile volcanic soil and temperate climate make for perfect tea growing conditions.The majority of tea is cultivated on large plantations, with a small contribution from tea cooperatives and private growers. Tea plants can be seen covering the rolling hills, their rich green a striking contrast to the blue skies, dirt roads and sunshine.Tea leaves are processed in a dozen tea factories across the country. A number are open to the public, enabling visitors to discover how tea is harvested and processed, with the opportunity to taste the results.Tea plantation tours take place in a variety of locations across Rwanda, with the major ones being around Nyungwe National Park – Gisovu and Gisakura.Tucked away at the far northern edge of Nyungwe National Park, the shimmering fields and winding pathways of the Gisovu Tea Estate sit right up against the primeval Nyungwe forest, where the meticulous rows of tea draw a sharp contrast with the wild forest greenery just behind them.The estate offers both day tours and accommodation, so after a tour of the grounds and cupping ceremony, those with time to spare can unwind here, mountain bike through the grounds, or simply soak up the serenity over never-ending cups of the world’s finest tea.Hugging the undulating hills at the western fringes of Nyungwe Forest National Park, the Gisakura Tea Estate is among the most famous of Rwanda’s tea plantations, and certainly among the most beautiful. Tours and tastings are easily arranged, and while there is currently no accommodation on the plantation itself, there are guesthouses just a short walk or drive away.Keep an eye out for the troop of Colobus monkeys which live in a patch of forest within the plantation.",
     meta: ["1 Day-","RUSIZI"],
     col: 3,
   },
@@ -15,7 +15,7 @@ const popularTours = [
     title: "Akagera National Parka",
     superb: "8.0",
     rate: "400",
-    description:"The relatively warm and low-lying plains of Akagera comprise savannah, woodland, wetland and a dozen lakes. In partnership with African Parks, we aim to transform the National Park into a world-class location to experience a safari.The largely open expanse is ideal for game viewing, and we are taking steps to ensure the Big Five roam the park in greater numbers over the course of time.Since 2010 we have cut poaching to an all time low, with the introduction of a helicopter, a canine unit and rhino trackers.A family of lions from South Africa is settling in well, and breeding successfully, and 18 eastern black rhinos have also been reintroduced.Visitors can also encounter buffalo, elephant, antelope, zebra, giraffe, baboons, monkeys, an incredible 490 bird species, plus much more.A boat trip on Lake Ihema is also a highlight of any visit to Akagera, with its large pods of hippos, Nile crocodiles and abundant waterbirds on the island in the middle of the lake.The only way to explore the park is by vehicle, whether through a tour operator or self drive. The National Park also has a vehicle to hire, with individual spaces available on night drives.It is recommended to take up the services of a guide, which can be booked through the park.Sleeping within the park is possible, at various lodges, a bush camp in the north at select periods, or camping in specific sites",
+    description:"The relatively warm and low-lying plains of Akagera comprise savannah, woodland, wetland and a dozen lakes. In partnership with African Parks, we aim to transform the National Park into a world-class location to experience a safari.The largely open expanse is ideal for game viewing, and we are taking steps to ensure the Big Five roam the park in greater numbers over the course of time.Since 2010 we have cut poaching to an all time low, with the introduction of a helicopter, a canine unit and rhino trackers.A family of lions from South Africa is settling in well, and breeding successfully, and 18 eastern black rhinos have also been reintroduced.Visitors can also encounter buffalo, elephant, antelope, zebra, giraffe, baboons, monkeys, an incredible 490 bird species, plus much more.A boat trip on Lake Ihema is also a highlight of any visit to Akagera, with its large pods of hippos, Nile crocodiles and abundant waterbirds on the island in the middle of the lake.The only way to explore the park is by vehicle, whether through a tour operator or self drive. The National Park also has a vehicle to hire, with individual spaces available on night drives.It is recommended to take up the services of a guide, which can be booked through the park.Sleeping within the park is possible, at various lodges, a bush camp in the north at select periods, or camping in specific sites.",
     meta: ["1 Day-","NYAGATARE"],
     col: 6,
   },
@@ -66,8 +66,8 @@ const popularTours = [
     superb: "8.0",
     rate: "200",
     meta: ["1 Day-","KIGALI"],
-     col: 6,
-    col: 3,
+    col: 6,
+   
   },
   {
     id: 8,
