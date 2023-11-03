@@ -9,7 +9,6 @@ const SingleSlide = ({ slide = {} }) => {
   const router = useRouter()
   const { id } = router.query
   const tours = popularTours?.find((popular)=>popular?.id==id);
-  console.log("tours==>",tours)
 
   return (
     <SwiperSlide>
