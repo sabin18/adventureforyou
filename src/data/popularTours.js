@@ -27,7 +27,7 @@ const popularTours = [
     rate:"400",
     description:"Nyungwe is one of the oldest rainforests in Africa, and the largest expanse of forest in Rwanda, covering 1,019 km2 of dense Afromontane forests, bamboo-covered slopes, grasslands and wetlands. The park feeds two of the world’s largest rivers, the Congo and the Nile, and provides a significant portion of Rwanda’s freshwater. Over 1,100 recorded plant species, 345 bird species and 85 known mammal species, including 13 of Africa’s primates – notably, chimpanzee, Ruwenzori black-and-white colobus and L’Hoest’s monkeys – are found in this exceptional landscape. Historically, Nyungwe’s rich fauna and flora was exposed to rampant poaching, illegal mining, unsustainable harvesting and agricultural encroachment, endangering the survival of its rich biodiversity. Following a successful partnership with the Rwanda Development Board (RDB) in Akagera National Park, in 2020 African Parks was invited by the Rwandan government to sign a 20-year agreement to manage Nyungwe. Together, we are working to restore and protect wildlife, engage with the local communities, and develop a strong tourism offering to improve economic sustainability of the park. Today, the park is building a sense of ownership of conservation among the people who live around it, and developing an ecologically healthy and financially self-sufficient asset",
     meta: ["1 Day-","RUSIZI"],
-    col: 6,
+    col: 3,
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const popularTours = [
     rate: "200",
     description:"Well, you can throw that all out when you visit Kimironko. One of the busiest markets in Rwanda, this is where the city truly comes to life. If you still need to pick up those souvenirs (why not check out a traditional agaseke basket) or just want to get a taste of what an east African market is like, you can’t miss out on this experience.There are four entrances, and while it may seem overwhelming, it gets a little easier to navigate once you get the lay of the land. Everything is organized by category, similar to a department store. Be prepared to negotiate prices and as always use common sense when in a crowded place and stay mindful of your personal belongings. Open seven days a week from 8:00am- 7:00pm, Saturday and Monday mornings are said to be the busiest and Sundays a little slower. And also, get ready to be overwhelmed, but don’t forget to soak in every last detail.",
     meta: ["1 Day-","KIGALI"],
-    col: 3,
+    col: 6,
   },
   {
     id: 5,
@@ -66,7 +66,7 @@ const popularTours = [
     superb: "8.0",
     rate: "200",
     meta: ["1 Day-","KIGALI"],
-    col: 6,
+    col: 4,
    
   },
   {
@@ -86,16 +86,16 @@ const popularTours = [
     superb: "8.0",
     rate: "200",
     meta: ["1 Day-","KIGALI"],
-    col: 6,
+    col: 4,
   },
   {
     id: 10,
     image: "kigali_genocide_memorial.jpg",
-    title: "KIgali Genocide Memorial",
+    title: "Kigali Genocide Memorial",
     superb: "8.0",
     rate: "200",
     description:"The Kigali Genocide Memorial is the final resting-place for 250,000 victims of the Genocide against the Tutsi. It is also a driver in Rwanda’s extraordinary journey towards healing and reconciliation. The Kigali Genocide Memorial offers guided tours of the exhibitions and gardens. Many of the guides are survivors of the Genocide against the Tutsi.If you would like to visit the memorial with a group, please book in advance.",
-    col: 3,
+    col: 6,
     meta: ["1 Day", "Kigali"],
   },
   {
@@ -105,17 +105,19 @@ const popularTours = [
     superb: "8.0",
     description:"A reconstruction of the traditional royal residence, the King’s Palace is a beautifully-crafted thatched dwelling shaped like a beehive.In olden times, Nyanza was the heart of Rwanda. According to oral tradition, it was the site of battles and power struggles.For a long time, the monarchy was mobile, moving the court between various locations. When it eventually settled in one place, Nyanza was the obvious choice. The capital of the kingdom had as many as 2,000 inhabitants, and huts built with the same methods as seen here.At the back live a few long-horned Inyambo cattle, descended from the king’s herd, whose keepers carefully tend and sing to them, keeping alive a unique tradition.The elegant cows, derived from the wider Ankole breed, played an important role during ceremonies in honour of the king. They were decorated with rich jewellery, and were taught to listen to a trainer’s songs and follow his movements in a stately parade.Rwanda ceased to be a monarchy in 1962, when it gained independence from colonial rule. However, the breeding and grooming of Inyambo is still carried out under the Rwanda Agriculture Board.",
     rate: "350",
-    col: 6,
+    col: 5,
     meta: ["1 Day", "Nyanza"],
   },
-  // {
-  //   id: 12,
-  //   image: "popular-tours__img-4.jpg",
-  //   title: "National Park 2 Days Tour",
-  //   superb: "8.0",
-  //   rate: "1870",
-  //   meta: ["3 Days", "12+", "Los Angeles"],
-  // },
+  {
+    id: 12,
+    image: "kigali_poettry.jpg",
+    title: "Poettry Cafe",
+    description:"It's located in Kacyiru in the same neighborhood with US embassy in Kigali city. Since 2015, we work with local potters all over Rwanda, where we do a collection of their beautiful handmade pottery items. Since, we started working with them, their market has increased multiple times and their livelihoods transformed. We have built a strong partnership with local porters and we are a priority in their workshops.In the beginning of 2023, we have opened a pottery experience studio at Kinyinya just 10min drive from the main show room as another way of extending promotion of Rwandan pottery.Come and visit our show room and the pottery studio.You are welcome.",
+    superb: "8.0",
+    rate: "200",
+    col: 5,
+    meta: ["1 Day", "Kigali"],
+  },
 ];
 
 export default popularTours;

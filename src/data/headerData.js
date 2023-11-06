@@ -98,7 +98,7 @@ const headerData = {
     {
       id: 2,
       icon: "icon-at",
-      content: "audreshimwe@gmail.com",
+      content: "foryouadventure7@gmail.com",
       subHref: "mailto",
     },
   ],

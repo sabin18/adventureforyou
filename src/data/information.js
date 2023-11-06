@@ -1,7 +1,7 @@
 const information = {
   address: "KIGALI \n RWANDA",
   phones: ["+250788657132/+250780763545"],
-  mails: ["audreshimwe@gmail.com",],
+  mails: ["foryouadventure7@gmail.com",],
 };
 
 export default information;
