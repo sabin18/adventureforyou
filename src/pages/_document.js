@@ -43,7 +43,7 @@ class MyDocument extends Document {
           />
           <link rel="icon" href="favicon.ico" />
           <link rel="manifest" href="manifest.json" />
-          <meta name="description" content="Adventure for you || Tourism Agency" />
+          <meta name="description" content="1000 hills tour || Tourism Agency" />
 
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link

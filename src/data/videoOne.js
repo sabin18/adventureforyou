@@ -4,7 +4,7 @@ const videoOne = {
   bg,
   videoId: "2p9Qt60W91Q",
   tagline: "Are you ready to travel?",
-  title: "Adventure for you is a Rwanda Leading Tour company",
+  title: "1000 hills tour is a Rwanda Leading Tour company",
   iconBoxes: [
     { id: 1, icon: "icon-deer", title: "Wildlife \n Tours" },
     { id: 2, icon: "icon-paragliding", title: "Paragliding \n Tours" },

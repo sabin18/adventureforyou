@@ -3,9 +3,9 @@ import image from "@/images/destination/Rwanda-culture.jpeg";
 const aboutPage = {
   image,
   tagline: "Learn about us",
-  title: "Dare to Explore with Advenure for you",
+  title: "Dare to Explore with 1000 hills tour",
   text1: "A Simply Perfect Place to Get Lost",
-  text2:"Adventure for You is a tourism company based in Rwanda.We specialize in providing unique and unforgettable adventure experiences to both local and international travelers.Our team of experienced professionals is dedicated to creating tailor-made itineraries that showcase the natural beauty and cultural richness of Rwanda.",
+  text2:"1000 hills tour is a tourism company based in Rwanda.We specialize in providing unique and unforgettable adventure experiences to both local and international travelers.Our team of experienced professionals is dedicated to creating tailor-made itineraries that showcase the natural beauty and cultural richness of Rwanda.",
   progress: [
     // {
     //   id: 1,

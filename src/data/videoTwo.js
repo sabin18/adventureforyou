@@ -4,7 +4,7 @@ const videoTwo = {
   bg,
   videoId: "2p9Qt60W91Q",
   tagline: "Are you ready to travel?",
-  title: "Adventure for you is a World Leading Rwanda tourism Agency",
+  title: "1000 hills tour is a World Leading Rwanda tourism Agency",
 };
 
 export default videoTwo;

@@ -5,15 +5,15 @@ const whyChoose = {
   bg,
   bg2,
   toggleText: " Trips \n & tours",
-  title: "Why Choose Adventure for you",
+  title: "Why Choose 1000 hills tour",
   tagline: "Our benefit lists",
-  description:"Adventure for You is a tourism company based in Rwanda. We specialize in providing unique and unforgettable adventure experiences to both local and international travelers.Our team of experienced professionals is dedicated to creating tailor-made itineraries that showcase the natural beauty and cultural richness of Rwanda.",
+  description:"1000 hills tour is a tourism company based in Rwanda. We specialize in providing unique and unforgettable adventure experiences to both local and international travelers.Our team of experienced professionals is dedicated to creating tailor-made itineraries that showcase the natural beauty and cultural richness of Rwanda.",
   lists: [
     {
       id: 1,
       icon: "icon-travel",
       title: "Professional and Certified",
-      description: "Our mission is to promote sustainable tourism practices while offering exceptional adventure experiences that contribute to the economic growth and conservation efforts in Rwanda.We envision Adventure for You as a leading tourism company that inspires travelers to explore the wonders of Rwanda, while fostering a positive impact on local communities and the environment.",
+      description: "Our mission is to promote sustainable tourism practices while offering exceptional adventure experiences that contribute to the economic growth and conservation efforts in Rwanda.We envision 1000 hills tour as a leading tourism company that inspires travelers to explore the wonders of Rwanda, while fostering a positive impact on local communities and the environment.",
     },
     {
       id: 2,
