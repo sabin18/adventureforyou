@@ -10,7 +10,7 @@ const footerData = {
   logo,
   social,
   year: new Date().getFullYear(),
-  author: "Adventure for you",
+  author: "1000 hills tour",
   about:
     "Welcome to our Trip and Tour Agency",
   icons: [
@@ -23,7 +23,7 @@ const footerData = {
     {
       id: 2,
       icon: "fas fa-envelope",
-      content: "foryouadventure7@gmail.com",
+      content: "info.1000hillstour@gmail.com",
       subHref: "mailto",
     },
     {

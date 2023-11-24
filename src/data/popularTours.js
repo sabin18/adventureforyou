@@ -62,7 +62,7 @@ const popularTours = [
   {
     id: 7,
     image: "kigali_hacking.jpg",
-    title: "Kigali country side :Jali",
+    title: "Fazendasengha",
     superb: "8.0",
     rate: "200",
     meta: ["1 Day-","KIGALI"],
