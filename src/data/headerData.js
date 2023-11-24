@@ -98,7 +98,7 @@ const headerData = {
     {
       id: 2,
       icon: "icon-at",
-      content: "foryouadventure7@gmail.com",
+      content: "info.1000hillstour@gmail.com",
       subHref: "mailto",
     },
   ],
