@@ -100,6 +100,16 @@ const popularTours = [
   },
   {
     id: 11,
+    image: "pok.jpg",
+    title: "Poettry Cafe",
+    description:"It's located in Kacyiru in the same neighborhood with US embassy in Kigali city. Since 2015, we work with local potters all over Rwanda, where we do a collection of their beautiful handmade pottery items. Since, we started working with them, their market has increased multiple times and their livelihoods transformed. We have built a strong partnership with local porters and we are a priority in their workshops.In the beginning of 2023, we have opened a pottery experience studio at Kinyinya just 10min drive from the main show room as another way of extending promotion of Rwandan pottery.Come and visit our show room and the pottery studio.You are welcome.",
+    superb: "8.0",
+    rate: "200",
+    col: 5,
+    meta: ["1 Day", "Kigali"],
+  },
+  {
+    id: 12,
     image: "nyanza.jpg",
     title: "King's Palace Museum",
     superb: "8.0",
@@ -108,16 +118,7 @@ const popularTours = [
     col: 5,
     meta: ["1 Day", "Nyanza"],
   },
-  {
-    id: 12,
-    image: "kigali_poettry.jpg",
-    title: "Poettry Cafe",
-    description:"It's located in Kacyiru in the same neighborhood with US embassy in Kigali city. Since 2015, we work with local potters all over Rwanda, where we do a collection of their beautiful handmade pottery items. Since, we started working with them, their market has increased multiple times and their livelihoods transformed. We have built a strong partnership with local porters and we are a priority in their workshops.In the beginning of 2023, we have opened a pottery experience studio at Kinyinya just 10min drive from the main show room as another way of extending promotion of Rwandan pottery.Come and visit our show room and the pottery studio.You are welcome.",
-    superb: "8.0",
-    rate: "200",
-    col: 5,
-    meta: ["1 Day", "Kigali"],
-  },
+  
 ];
 
 export default popularTours;
