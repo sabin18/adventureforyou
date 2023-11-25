@@ -1,4 +1,4 @@
-import logo from "@/images/resources/logo-3.jpg";
+import logo from "@/images/resources/hillls_logo.png";
 import logo2 from "@/images/resources/logo-2.png";
 
 const navItems = [

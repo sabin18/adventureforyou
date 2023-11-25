@@ -1,4 +1,4 @@
-import logo from "@/images/resources/logo-3.jpg";
+import logo from "@/images/resources/hillls_logo.png";
 
 const social = [
   { icon: "fa-facebook-square", link: "https://www.facebook.com/profile.php?id=61552967395485" },
