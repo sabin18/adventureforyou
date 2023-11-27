@@ -12,7 +12,7 @@ const popularTours = [
   {
     id: 2,
     image: "akagera_animals.jpg",
-    title: "Akagera National Parka",
+    title: "Akagera National Park",
     superb: "8.0",
     rate: "400",
     description:"The relatively warm and low-lying plains of Akagera comprise savannah, woodland, wetland and a dozen lakes. In partnership with African Parks, we aim to transform the National Park into a world-class location to experience a safari.The largely open expanse is ideal for game viewing, and we are taking steps to ensure the Big Five roam the park in greater numbers over the course of time.Since 2010 we have cut poaching to an all time low, with the introduction of a helicopter, a canine unit and rhino trackers.A family of lions from South Africa is settling in well, and breeding successfully, and 18 eastern black rhinos have also been reintroduced.Visitors can also encounter buffalo, elephant, antelope, zebra, giraffe, baboons, monkeys, an incredible 490 bird species, plus much more.A boat trip on Lake Ihema is also a highlight of any visit to Akagera, with its large pods of hippos, Nile crocodiles and abundant waterbirds on the island in the middle of the lake.The only way to explore the park is by vehicle, whether through a tour operator or self drive. The National Park also has a vehicle to hire, with individual spaces available on night drives.It is recommended to take up the services of a guide, which can be booked through the park.Sleeping within the park is possible, at various lodges, a bush camp in the north at select periods, or camping in specific sites.",
@@ -118,7 +118,16 @@ const popularTours = [
     col: 5,
     meta: ["1 Day", "Nyanza"],
   },
-  
+  {
+    id: 13,
+    image: "tea_plantation.jpg",
+    title: "Visit Bigogwe",
+    superb: "8.0",
+    description:"These include ecological and cultural trips, study, sport and leisure tours that focus on the Bigogwe and surrounding area. The cows in Bigogwe are typically bred for their milk and cheese, and they are often seen grazing in the lush green pastures that cover the Bigogwe countryside. This pastoral scene, along with the stunning mountain landscapes has long been a draw for tourists seeking a peaceful and scenic getaway. Many visitors come to Bigogwe specifically to experience the country's cow culture and explore the villages that dot the countryside. Bigogwe also offers a range of outdoor activities that take advantage of its natural beauty, such as hiking, climbing. Whether visitors are seeking a relaxing vacation or an adventure-filled trip, Bigogwe's green landscapes and unique culture are sure to make a lasting impression.",
+    rate: "350",
+    col: 5,
+    meta: ["1 Day", "Rubavu"],
+  },
 ];
 
 export default popularTours;
